@@ -6,8 +6,6 @@
 //     JavaScript
 
 // Instructions
-// Output
-// Past Solutions
 
 // We need a function that can transform a number (integer) into a string.
 
@@ -25,4 +23,6 @@
 //**********solution*************** *//
 
 const numberToString = num => num.toString()
+
+// solution page
 

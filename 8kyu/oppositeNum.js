@@ -1,7 +1,6 @@
 
 // 8 kyu
 // Opposite number
-// 102330184% of 20,336116,689 of 284,908sergioet1 Issue Reported
 
 //     JavaScript
 //     Node v18.x
@@ -16,7 +15,6 @@
 
 // Fundamentals
 
-
 // **********************************//
 //**********solution*************** *//
 
@@ -28,6 +26,6 @@ function opposite(number) {
 
   const opposite = number => number * -1
 
-  // solution
+  // solution page
 
   // https://www.codewars.com/kata/56dec885c54a926dcd001095/solutions/javascript
