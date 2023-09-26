@@ -1,8 +1,7 @@
-
 // 8 kyu
 // Keep Hydrated!
 
-//     JavaScript
+// Instructions
 
 // Nathan loves cycling.
 

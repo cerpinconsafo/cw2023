@@ -1,9 +1,7 @@
-
 // 8 kyu
 // Opposite number
 
-//     JavaScript
-//     Node v18.x
+// Instructions
 
 // Very simple, given an integer or a floating-point number, find its opposite.
 

@@ -1,11 +1,8 @@
-
 // 8 kyu
 // Convert a String to a Number!
-
-//     JavaScript
-
 // Note: This kata is inspired by Convert a Number to a String!. Try that one too.
-// Description
+
+// Instructions
 
 // We need a function that can transform a string into a number. What ways of achieving this do you know?
 
