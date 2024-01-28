@@ -1,9 +1,5 @@
-
 // 8 kyu
 // Convert a Number to a String!
-// 89720688% of 18,970112,603 of 287,117AKJ.IO
-
-//     JavaScript
 
 // Instructions
 

@@ -1,8 +1,5 @@
-
 // 8 kyu
 // Convert boolean values to strings 'Yes' or 'No'.
-
-//     JavaScript
 
 // Instructions
 
