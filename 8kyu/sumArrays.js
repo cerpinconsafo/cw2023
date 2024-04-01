@@ -27,11 +27,18 @@
 // **********************************//
 //**********solution*************** *//
 
-function sum (numbers) {
-    "use strict";
-    return numbers.reduce((a, c) => { return a + c}, 0);    
-};
+function sum(numbers) {
+  "use strict";
+  return numbers.reduce((a, c) => {
+    return a + c;
+  }, 0);
+}
 
- // solution page
+// one liner
+
+// Sum Numbers
+let sum = (numbers) => numbers.reduce((a, c, i) => a + c, 0);
+
+// solution page
 
 // https://www.codewars.com/kata/53dc54212259ed3d4f00071c/solutions/javascript
