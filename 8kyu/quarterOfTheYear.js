@@ -33,6 +33,15 @@ const quarterOf = (month) => {
     return "month must be 1-12";
   }
 };
+//////////clever and short
+
+const quarterOf = (month) => {
+  return month < 4 ? 1 : month < 7 ? 2 : month < 10 ? 3 : 4;
+};
+
+//////////clever and short 2
+
+const quarterOf = (m) => Math.ceil(m / 3);
 
 // solution page
 
